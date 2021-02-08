@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yuto-moriizumi.yuto-moriizumi)
+[![Github](https://img.shields.io/github/followers/yuto-moriizumi?label=Follow&style=social)](https://github.com/yuto-moriizumi)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuto-moriizumi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-moriizumi&theme=tokyonight)
